@@ -70,11 +70,11 @@ a{
   font-weight: 700;
 }
 
-.principal{
-  background: #ff6cb5;
-  height:40px;
-  max-width:60%
-  margin:0 auto;
+.principal {
+  background-color: #ff6cb5; 
+  height: 40px;
+  max-width: 60%;
+  margin: 0 auto;
 }
 
 .principal ul li a{
